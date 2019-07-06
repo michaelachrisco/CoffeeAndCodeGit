@@ -1,1 +1,8 @@
-This is bread
+# Bread 
+
+    In a large bowl, dissolve the sugar in warm water and then stir in yeast. Allow to proof until yeast resembles a creamy foam, about 5 minutes.
+    Mix salt and oil into the yeast. ...
+    Knead dough for 7 minutes. ...
+    Punch dough down. ...
+    Bake at 350 degrees F (175 degrees C) for 30-40 minutes.
+    Cool, brush with butter and enjoy!
